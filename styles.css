@@ -14,7 +14,6 @@ body {
     display: grid;
     max-width: 660px;
     grid-template-columns: repeat(2, 1fr);
-    /* grid-template-rows: repeat(3, 1fr); */
     margin: 100px auto;
     -webkit-box-shadow: 2px 17px 23px -14px rgba(150,139,150,1);
     -moz-box-shadow: 2px 17px 23px -14px rgba(150,139,150,1);
